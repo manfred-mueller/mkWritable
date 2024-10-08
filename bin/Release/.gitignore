@@ -1,0 +1,4 @@
+#ignore *.xml and *.config
+*.pdb
+*.xml
+*.*.config
